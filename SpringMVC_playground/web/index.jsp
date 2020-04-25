@@ -15,6 +15,7 @@
   <a href="${pageContext.request.contextPath}/receiveDemoJSP/receive_demo.jsp">receive_demo.jsp</a> <br>
   <a href="${pageContext.request.contextPath}/restfulDemoJSP/restful_demo.jsp">restful_demo.jsp</a> <br>
   <a href="${pageContext.request.contextPath}/jsonDemoJSP/json_demo.jsp">json_demo.jsp</a> <br>
+  <a href="${pageContext.request.contextPath}/ModelAndViewDemoJSP/modelAndView_demo.jsp">modelAndView_demo.jsp</a> <br>
 
   </body>
 </html>
