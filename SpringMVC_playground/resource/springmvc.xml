@@ -29,6 +29,8 @@
     </bean>
     <mvc:annotation-driven conversion-service="dateConverter"></mvc:annotation-driven>
 
+    <mvc:resources mapping="/js/**" location="/js/"></mvc:resources>
+
     <!-- Annotation driven to ensure all beans are configured (Usually Required) -->
     <mvc:annotation-driven></mvc:annotation-driven>
 
